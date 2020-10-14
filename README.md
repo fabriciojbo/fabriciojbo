@@ -9,7 +9,7 @@ Welcome to my profile!
 
 Working with web development, with 10 years of experience in full stack. 
 
-- :computer: **Languages** : HTML, CSS, JS, C#, PHP, MySQL and MongoDb.
+- :computer: **Languages** : HTML, CSS, JS, TS, C#, PHP, MySQL and MongoDb.
 - 🌱 **Learning** : React, ReactNative and Node.js.
 - 👯 **Collaborte** : Seeking to collaborate with the development of the front-end using React.
 - :hammer: **Tools** : Visual Studio Code and GitHub.
