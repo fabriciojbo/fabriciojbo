@@ -7,7 +7,7 @@ Welcome to my profile!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-pereira-rabelo-74277b14b/)](https://www.linkedin.com/in/fabricio-pereira-rabelo-74277b14b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricioprabelo@gmail.com)](mailto:fabricioprabelo@gmail.com)
 
-Working with web development, with 10 years of experience in full stack. 
+Working with web development, with 10 years of experience in full-stack developer. 
 
 - :computer: **Languages** : HTML, CSS, JS, TS, C#, PHP, MySQL and MongoDb.
 - 🌱 **Learning** : React, ReactNative and Node.js.
