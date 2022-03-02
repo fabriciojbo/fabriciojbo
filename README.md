@@ -4,7 +4,7 @@
 
 Welcome to my profile!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-pereira-rabelo-74277b14b/)](https://www.linkedin.com/in/fabricio-pereira-rabelo-74277b14b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioprabelo)](https://www.linkedin.com/in/fabricioprabelo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricioprabelo@gmail.com)](mailto:fabricioprabelo@gmail.com)
 
 Working with web development, with 10 years of experience in full-stack developer. 
