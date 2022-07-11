@@ -13,7 +13,6 @@ I am a highly focused technologist with a multidisciplinary skill set honed over
 - 🌱 **Learning** : Go Lang.
 - 👯 **Collaborte** : Seeking to collaborate with the development of the front-end using React.
 - :hammer: **Tools** : Visual Studio Code and GitHub.
-- 📫 **Contact** : My email is fabricioprabelo@gmail.com
 
 <!--
 **fabriciorabelo/fabriciorabelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
