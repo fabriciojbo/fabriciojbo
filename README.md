@@ -9,7 +9,7 @@ Welcome to my profile!
 
 I am a highly focused technologist with a multidisciplinary skill set honed over 11+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible.
 
-- :computer: **Languages** : HTML, CSS, JS, TS, PHP, Node, React.
+- :computer: **Languages** : PHP, Node, React.
 - 🌱 **Learning** : Go Lang.
 - 👯 **Collaborte** : Seeking to collaborate with the development of the front-end using React.
 - :hammer: **Tools** : Visual Studio Code and GitHub.
