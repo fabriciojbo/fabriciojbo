@@ -4,7 +4,7 @@
 
 Welcome to my profile!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioprabelo)](https://www.linkedin.com/in/fabricioprabelo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciojbo)](https://www.linkedin.com/in/fabriciojbo)
 [![iCloud Badge](https://img.shields.io/badge/-iCloud-333333?style=flat-square&logo=Apple&logoColor=white&link=mailto:fabriciojbo@icloud.com)](mailto:fabricioprabelo@gmail.com)
 
 I am a highly focused technologist with a multidisciplinary skill set honed over 11+ years in the IT industry.
