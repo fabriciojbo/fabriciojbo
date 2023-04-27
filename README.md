@@ -10,7 +10,7 @@ Welcome to my profile!
 I am a highly focused technologist with a multidisciplinary skill set honed over 11+ years in the IT industry.
 
 - :computer: **Languages** : PHP, Laravel, Node, React.JS, Next.JS, Nest.JS.
-- 🌱 **Learning** : Python.
+- 🌱 **Learning** : Java.
 - :hammer: **Tools** : PhpStorm, Visual Studio Code and GitHub.
 
 <!--
