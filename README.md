@@ -11,7 +11,7 @@ I am a highly focused technologist with a multidisciplinary skill set honed over
 
 - :computer: **Languages** : PHP, Laravel, Node, React.JS, Next.JS, Nest.JS.
 - 🌱 **Learning** : Python.
-- :hammer: **Tools** : IntelliJ IDEA, PhpStorm, Visual Studio Code and GitHub.
+- :hammer: **Tools** : PhpStorm, Visual Studio Code and GitHub.
 
 <!--
 **fabriciojbo/fabriciojbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
