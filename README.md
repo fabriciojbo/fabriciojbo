@@ -8,7 +8,7 @@ Welcome to my profile!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricioprabelo@icloud.com)](mailto:fabricioprabelo@gmail.com)
 [![iCloud Badge](https://img.shields.io/badge/-iCloud-333333?style=flat-square&logo=Apple&logoColor=white&link=mailto:fabriciojbo@icloud.com)](mailto:fabriciojbo@icloud.com)
 
-I am a highly focused technologist with a multidisciplinary skill set honed over 11+ years in the IT industry.
+Innovative and deadline-driven Full-Stack Developer with 11+ years of experience designing and developing user-centered websites and applications from initial concept to final, polished deliverable.
 
 - :computer: **Languages** : PHP, Laravel, Node, React.JS, Next.JS, Nest.JS, Vite.
 - 🌱 **Learning** : Java.
