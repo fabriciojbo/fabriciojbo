@@ -4,7 +4,7 @@
 
 Welcome to my profile!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioprabelo)](http://linkedin.com/in/fabricioprabelo-fullstack-developer)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioprabelo)](http://linkedin.com/in/fabricioprabelo-fullstack-developer)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricioprabelo@icloud.com)](mailto:fabriciojbo@gmail.com)
 [![iCloud Badge](https://img.shields.io/badge/-iCloud-333333?style=flat-square&logo=Apple&logoColor=white&link=mailto:fabriciojbo@icloud.com)](mailto:fabriciojbo@icloud.com)
 
