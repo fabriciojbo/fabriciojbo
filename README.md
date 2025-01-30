@@ -4,15 +4,17 @@
 
 Welcome to my profile!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioprabelo)](https://www.linkedin.com/in/fabricioprabelo)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricioprabelo@icloud.com)](mailto:fabricioprabelo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioprabelo)](http://linkedin.com/in/fabricioprabelo-fullstack-developer)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricioprabelo@icloud.com)](mailto:fabriciojbo@gmail.com)
 [![iCloud Badge](https://img.shields.io/badge/-iCloud-333333?style=flat-square&logo=Apple&logoColor=white&link=mailto:fabriciojbo@icloud.com)](mailto:fabriciojbo@icloud.com)
 
-Innovative and deadline-driven Full-Stack Developer with 11+ years of experience designing and developing user-centered websites and applications from initial concept to final, polished deliverable.
+Graduated in Systems Analysis and Development from Paulista University, I have solid experience in Information Technology, with an emphasis on the development of web systems. My professional career covers a wide range of programming languages, including PHP and Node.js, as well as in-depth knowledge of SQL and NoSQL databases.
 
-- :computer: **Languages** : PHP, Laravel, Node, React.JS, Next.JS, Nest.JS, Vite.
-- 🌱 **Learning** : Java.
-- :hammer: **Tools** : PhpStorm, Visual Studio Code and GitHub.
+- 🖥️ **Languages** : PHP, Python, Node / JavaScript, TypeScript, Golang.
+- 🚀 **Frameworks** : Laravel, FastAPI, Gin, Spring Boot, Express, React.JS, Next.JS, Nest.JS, Vite.
+- 🌱 **Learning** : Java & Spring Boot.
+- 🔭 **Working** : A personal Golang project of microservices with RabbitMQ, MongoDB, and a Gateway API using REST.
+- 🛠️ **Tools** : PhpStorm, Visual Studio Code and GitHub.
 
 <!--
 **fabriciojbo/fabriciojbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
