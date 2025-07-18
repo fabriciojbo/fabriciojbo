@@ -14,7 +14,7 @@ Graduated in Systems Analysis and Development from Paulista University, I have s
 - 🚀 **Frameworks** : Laravel, FastAPI, Gin, Spring Boot, Express, React.JS, Next.JS, Nest.JS, Vite.
 - 🌱 **Learning** : Java & Spring Boot.
 - 🔭 **Working** : A personal Golang project of microservices with RabbitMQ, MongoDB, and a Gateway API using REST.
-- 🛠️ **Tools** : PhpStorm, Visual Studio Code and GitHub.
+- 🛠️ **Tools** : Cursor and GitHub.
 
 <!--
 **fabriciojbo/fabriciojbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
