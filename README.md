@@ -13,7 +13,7 @@ Graduated in Systems Analysis and Development from Paulista University, I have s
 - 🖥️ **Languages** : PHP, Python, Node / JavaScript, TypeScript, Golang.
 - 🚀 **Frameworks** : Laravel, FastAPI, Gin, Spring Boot, Express, React.JS, Next.JS, Nest.JS, Vite.
 - 🌱 **Learning** : Java & Spring Boot.
-- 🔭 **Working** : A personal Golang project of microservices with Kafka, MongoDB, and a Gateway API using GraphQL.
+- 🔭 **Working** : A personal Golang project of microservices with Kafka, PostgreSQL, MongoDB, Redis, and a Gateway API using GraphQL.
 - 🛠️ **Tools** : Cursor and GitHub.
 
 <!--
